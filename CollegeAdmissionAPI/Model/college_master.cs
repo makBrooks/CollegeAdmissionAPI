@@ -27,7 +27,7 @@ namespace CollegeAdmissionAPI.Model
         public string Email_Id { get; set; }
         public string Mobile_No { get; set; }
         public string Gender { get; set; }
-        public DateTime Dob { get; set; }
+        public string Dob { get; set; }
         public string Image_path { get; set; }
 
     }
